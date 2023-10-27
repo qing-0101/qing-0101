@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ee Ze Qing</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 📫 How to reach me **instagram @zeq___0101**
+- 📫 How to reach me **www.eeqing@graduate.utm.my**
 
 - ⚡ Fun fact **I am straight.**
 
